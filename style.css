@@ -1,0 +1,43 @@
+.container {
+    position: relative;
+    width: 960px;
+}
+
+.flower-garden {
+    width: 100%;
+}
+
+.butterfly {
+    position: absolute;
+}
+
+.butterfly--1 {
+    top: 400px;
+    left: 320px;
+    width: 120px;
+}
+
+.butterfly--2 {
+    top: 420px;
+    left: 700px;
+    width: 80px;
+}
+
+.butterfly--3 {
+    top: 380px;
+    left: 120px;
+    width: 60px;
+}
+
+.text {
+    position: absolute;
+    top: 32px;
+    left: 24px;
+}
+
+.text h1 {
+    padding: 12px;
+    color: #c2255c;
+    background: #fff7ff;
+    font-size: 20px;
+}
